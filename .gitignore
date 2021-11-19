@@ -1,0 +1,8 @@
+GettingStarted.html
+mbed_config.h
+.vscode
+.mbed
+mbed_settings.py
+Makefile
+BUILD/
+__pycache__
