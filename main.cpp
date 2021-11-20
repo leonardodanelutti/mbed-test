@@ -1,7 +1,7 @@
 #include <mbed.h>
 
 int main() {
-  printf("Hello world!");
+  printf("Hello world, this is my laptop!");
   while (true)
     ;
 }
